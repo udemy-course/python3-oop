@@ -12,4 +12,12 @@ if True:
     print('this is true')
 else:
     print('False')
-  print('test')
+    print('test')
+
+
+a = 4
+
+if a > 3:
+    print(a)
+else:
+    print('none')
