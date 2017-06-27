@@ -17,3 +17,16 @@ print(b)
 c = '''123456'''
 
 print(c)
+
+d = 'doesn\'t'
+
+print(d)
+
+e = """This is the frist line
+This is the second line
+This is the third line
+"""
+
+print(e)
+
+# https://docs.python.org/3.5/tutorial/introduction.html#strings
